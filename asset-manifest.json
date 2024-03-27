@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/List-of-product/static/css/main.31d6cfe0.css",
-    "main.js": "/List-of-product/static/js/main.bc856047.js",
-    "index.html": "/List-of-product/index.html",
-    "main.bc856047.js.map": "/List-of-product/static/js/main.bc856047.js.map"
+    "main.css": "/List-of-products/static/css/main.31d6cfe0.css",
+    "main.js": "/List-of-products/static/js/main.bc856047.js",
+    "index.html": "/List-of-products/index.html",
+    "main.bc856047.js.map": "/List-of-products/static/js/main.bc856047.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
